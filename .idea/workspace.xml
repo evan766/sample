@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7aa1fd12-e99d-421a-8f30-9fcd57d361e7" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="2e693278-580e-4ec3-ae0f-557fe1f7d75a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/public/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/console.php" afterDir="false" />
+    </list>
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
@@ -16,35 +23,62 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.2" value="1" />
+=======
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1485653866">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="md" value="1" />
           <entry key="php" value="2" />
+=======
+          <entry key="php" value="1" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="Markdown" value="1" />
           <entry key="PHP" value="2" />
+=======
+          <entry key="PHP" value="1" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="php" value="97" />
+=======
+          <entry key="php" value="3" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="PHP" value="97" />
+=======
+          <entry key="PHP" value="3" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor" />
@@ -55,6 +89,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/console.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
             </state>
           </provider>
         </entry>
@@ -87,9 +128,12 @@
     <option name="width" value="1440" />
     <option name="height" value="817" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -99,11 +143,19 @@
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="tt" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
               <item name="tt" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+=======
+              <item name="tt2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="tt2" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
@@ -137,20 +189,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="7aa1fd12-e99d-421a-8f30-9fcd57d361e7" name="Default Changelist" comment="" />
       <created>1539509271567</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539509271567</updated>
       <workItem from="1539509273903" duration="338000" />
+=======
+      <changelist id="2e693278-580e-4ec3-ae0f-557fe1f7d75a" name="Default Changelist" comment="" />
+      <created>1539509615479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539509615479</updated>
+      <workItem from="1539509616706" duration="14000" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="338000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="14000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -158,7 +226,11 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+=======
+      <window_info anchor="bottom" id="Version Control" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -181,6 +253,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -196,6 +269,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/console.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+>>>>>>> 2931e06114abf6a0fac0ff32199672de5d7a6f54
         </state>
       </provider>
     </entry>
