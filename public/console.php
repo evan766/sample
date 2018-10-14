@@ -1,9 +1,10 @@
 <?php
-function a(){
-    echo 121;
+phpinfo();
+function a44(){
+    echo 12199;
 }
 
-function c(){
+function c444(){
     echo 242;
 }
 
